@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrics", "Geometrics\Geometrics.csproj", "{591CDED9-E75F-4B07-A3FC-C3CADE08E6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrics.Tests", "Geometrics.Tests\Geometrics.Tests.csproj", "{30AE2781-E31F-4E62-88FB-E8502962131C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrics.Consumer", "Geometrics.Consumer\Geometrics.Consumer.csproj", "{663BE7FE-2F69-435D-B3E5-D99C5216D5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591CDED9-E75F-4B07-A3FC-C3CADE08E6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591CDED9-E75F-4B07-A3FC-C3CADE08E6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591CDED9-E75F-4B07-A3FC-C3CADE08E6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591CDED9-E75F-4B07-A3FC-C3CADE08E6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AE2781-E31F-4E62-88FB-E8502962131C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AE2781-E31F-4E62-88FB-E8502962131C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AE2781-E31F-4E62-88FB-E8502962131C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AE2781-E31F-4E62-88FB-E8502962131C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663BE7FE-2F69-435D-B3E5-D99C5216D5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663BE7FE-2F69-435D-B3E5-D99C5216D5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663BE7FE-2F69-435D-B3E5-D99C5216D5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663BE7FE-2F69-435D-B3E5-D99C5216D5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
